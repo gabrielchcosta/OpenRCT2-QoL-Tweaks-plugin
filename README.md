@@ -18,7 +18,6 @@ Didn't know what exactly to name this. Speeds up whenever you are clicking or sc
 This makes it so you can quickly click or scroll to change a ride from 1.00 to 2.00 for instance.
 
 <img width="472" alt="price_change" src="https://github.com/user-attachments/assets/d1229a32-bd10-481d-ac63-77a3b022f5c2" />
-<img width="472" height="305" alt="price_change" src="https://github.com/user-attachments/assets/e65c2301-e3f7-4ef4-afcb-a64130ce42a5" />
 
 
 - The first five consecutive clicks change the price normally.
