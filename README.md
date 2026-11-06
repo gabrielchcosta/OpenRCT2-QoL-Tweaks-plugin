@@ -15,7 +15,7 @@ Automatically changes every newly placed path sign to a no-entry sign.
 ### Mouse click Price change multiplier
 
 Didn't know what exactly to name this. Speeds up whenever you are clicking or scrolling to change the price of rides and some other windows which allow you to input numerical values.
-This makes it so you can quickly click or scroll to change a ride from 1.00 to 2.00 for instance.
+This makes it so you can quickly click or scroll to change a ride from 1.00 to 20.00 for instance.
 
 <img width="472" alt="price_change" src="https://github.com/user-attachments/assets/d1229a32-bd10-481d-ac63-77a3b022f5c2" />
 
